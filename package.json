@@ -8,8 +8,11 @@
 },
   "repository": {
   "type": "git",
-  "url": ""
+  "url": "https://github.com/arzeker/NewsAggregator"
 },
+  "dependencies":{
+    "express": "^4.15.2"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
