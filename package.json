@@ -2,9 +2,9 @@
   "name": "newsaggregator",
   "version": "1.0.0",
   "description": "node app ",
-  "main": "app.js",
+  "main": "main.html",
   "scripts": {
-  "start": "node app.js"
+  "start": "node start.js"
 },
   "repository": {
   "type": "git",
