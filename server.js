@@ -4,8 +4,7 @@ const port = process.env.PORT || 3000
 const server = http.createServer((req, res) => {
   res.statusCode = 200;
   res.setHeader('Content-Type', 'text/html');
-  res.end('<html>
-    <head>
+  res.end('<head>
         <link rel="stylesheet" href="style.css">
         <meta name="viewport"
         content="width=device-width, initial-scale=1"
