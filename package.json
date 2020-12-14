@@ -1,9 +1,9 @@
 {
   "name": "NewsAggregator",
   "description": "Aggregates the news",
-  "main": "start.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node server.js","
+    "start": "node server.js"
   },
   "dependencies": {
     "ejs": "1.0.0",
